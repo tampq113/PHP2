@@ -1,0 +1,9 @@
+{
+    "name": "admin/baihoc",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "./core"
+        }
+    },
+    "require": {}
+}
